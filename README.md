@@ -1,4 +1,4 @@
-# Explainable Deep Learning for Potentially Hazardous Asteroids Identification
+# Explainable Deep Learning for Potentially Hazardous Asteroids Identification Using Sequential Orbital Parameters under Extreme Class Imbalance
 > **Using Sequential Orbital Parameters under Extreme Class Imbalance**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
